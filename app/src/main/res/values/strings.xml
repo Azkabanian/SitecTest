@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SitecTest</string>
+    <string name="input">Вход</string>
 </resources>
